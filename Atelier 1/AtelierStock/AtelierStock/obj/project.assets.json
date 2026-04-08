@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\xavie\\Documents\\GitHub\\AtelierStock\\AtelierStock\\AtelierStock\\AtelierStock.csproj",
+      "projectUniqueName": "c:\\Users\\xavie\\Documents\\GitHub\\AtelierStock\\Atelier 1\\AtelierStock\\AtelierStock\\AtelierStock.csproj",
       "projectName": "AtelierStock",
-      "projectPath": "C:\\Users\\xavie\\Documents\\GitHub\\AtelierStock\\AtelierStock\\AtelierStock\\AtelierStock.csproj",
+      "projectPath": "c:\\Users\\xavie\\Documents\\GitHub\\AtelierStock\\Atelier 1\\AtelierStock\\AtelierStock\\AtelierStock.csproj",
       "packagesPath": "C:\\Users\\xavie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\xavie\\Documents\\GitHub\\AtelierStock\\AtelierStock\\AtelierStock\\obj\\",
+      "outputPath": "c:\\Users\\xavie\\Documents\\GitHub\\AtelierStock\\Atelier 1\\AtelierStock\\AtelierStock\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\xavie\\AppData\\Roaming\\NuGet\\NuGet.Config"

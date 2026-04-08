@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c1gZ+qjtCM0=",
+  "dgSpecHash": "vPkWJjXylvI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\xavie\\Documents\\GitHub\\AtelierStock\\AtelierStock\\AtelierStockTest\\AtelierStockTest.csproj",
+  "projectFilePath": "c:\\Users\\xavie\\Documents\\GitHub\\AtelierStock\\Atelier 1\\AtelierStock\\AtelierStockTest\\AtelierStockTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\xavie\\.nuget\\packages\\coverlet.collector\\8.0.1\\coverlet.collector.8.0.1.nupkg.sha512",
     "C:\\Users\\xavie\\.nuget\\packages\\microsoft.applicationinsights\\2.23.0\\microsoft.applicationinsights.2.23.0.nupkg.sha512",

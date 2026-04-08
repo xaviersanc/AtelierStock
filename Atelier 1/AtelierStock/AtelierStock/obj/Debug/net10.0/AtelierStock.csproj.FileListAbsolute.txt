@@ -1,0 +1,15 @@
+c:\Users\xavie\Documents\GitHub\AtelierStock\Atelier 1\AtelierStock\AtelierStock\bin\Debug\net10.0\AtelierStock.exe
+c:\Users\xavie\Documents\GitHub\AtelierStock\Atelier 1\AtelierStock\AtelierStock\bin\Debug\net10.0\AtelierStock.deps.json
+c:\Users\xavie\Documents\GitHub\AtelierStock\Atelier 1\AtelierStock\AtelierStock\bin\Debug\net10.0\AtelierStock.runtimeconfig.json
+c:\Users\xavie\Documents\GitHub\AtelierStock\Atelier 1\AtelierStock\AtelierStock\bin\Debug\net10.0\AtelierStock.dll
+c:\Users\xavie\Documents\GitHub\AtelierStock\Atelier 1\AtelierStock\AtelierStock\bin\Debug\net10.0\AtelierStock.pdb
+c:\Users\xavie\Documents\GitHub\AtelierStock\Atelier 1\AtelierStock\AtelierStock\obj\Debug\net10.0\AtelierStock.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\xavie\Documents\GitHub\AtelierStock\Atelier 1\AtelierStock\AtelierStock\obj\Debug\net10.0\AtelierStock.AssemblyInfoInputs.cache
+c:\Users\xavie\Documents\GitHub\AtelierStock\Atelier 1\AtelierStock\AtelierStock\obj\Debug\net10.0\AtelierStock.AssemblyInfo.cs
+c:\Users\xavie\Documents\GitHub\AtelierStock\Atelier 1\AtelierStock\AtelierStock\obj\Debug\net10.0\AtelierStock.csproj.CoreCompileInputs.cache
+c:\Users\xavie\Documents\GitHub\AtelierStock\Atelier 1\AtelierStock\AtelierStock\obj\Debug\net10.0\AtelierStock.sourcelink.json
+c:\Users\xavie\Documents\GitHub\AtelierStock\Atelier 1\AtelierStock\AtelierStock\obj\Debug\net10.0\AtelierStock.dll
+c:\Users\xavie\Documents\GitHub\AtelierStock\Atelier 1\AtelierStock\AtelierStock\obj\Debug\net10.0\refint\AtelierStock.dll
+c:\Users\xavie\Documents\GitHub\AtelierStock\Atelier 1\AtelierStock\AtelierStock\obj\Debug\net10.0\AtelierStock.pdb
+c:\Users\xavie\Documents\GitHub\AtelierStock\Atelier 1\AtelierStock\AtelierStock\obj\Debug\net10.0\AtelierStock.genruntimeconfig.cache
+c:\Users\xavie\Documents\GitHub\AtelierStock\Atelier 1\AtelierStock\AtelierStock\obj\Debug\net10.0\ref\AtelierStock.dll

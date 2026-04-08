@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xavie\\Documents\\GitHub\\AtelierStock\\AtelierStock\\AtelierStockTest\\AtelierStockTest.csproj": {}
+    "c:\\Users\\xavie\\Documents\\GitHub\\AtelierStock\\Atelier 1\\AtelierStock\\AtelierStockTest\\AtelierStockTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xavie\\Documents\\GitHub\\AtelierStock\\AtelierStock\\AtelierStockTest\\AtelierStockTest.csproj": {
+    "c:\\Users\\xavie\\Documents\\GitHub\\AtelierStock\\Atelier 1\\AtelierStock\\AtelierStockTest\\AtelierStockTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xavie\\Documents\\GitHub\\AtelierStock\\AtelierStock\\AtelierStockTest\\AtelierStockTest.csproj",
+        "projectUniqueName": "c:\\Users\\xavie\\Documents\\GitHub\\AtelierStock\\Atelier 1\\AtelierStock\\AtelierStockTest\\AtelierStockTest.csproj",
         "projectName": "AtelierStockTest",
-        "projectPath": "C:\\Users\\xavie\\Documents\\GitHub\\AtelierStock\\AtelierStock\\AtelierStockTest\\AtelierStockTest.csproj",
+        "projectPath": "c:\\Users\\xavie\\Documents\\GitHub\\AtelierStock\\Atelier 1\\AtelierStock\\AtelierStockTest\\AtelierStockTest.csproj",
         "packagesPath": "C:\\Users\\xavie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xavie\\Documents\\GitHub\\AtelierStock\\AtelierStock\\AtelierStockTest\\obj\\",
+        "outputPath": "c:\\Users\\xavie\\Documents\\GitHub\\AtelierStock\\Atelier 1\\AtelierStock\\AtelierStockTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xavie\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\xavie\\Documents\\GitHub\\AtelierStock\\AtelierStock\\AtelierStock\\AtelierStock.csproj": {
-                "projectPath": "C:\\Users\\xavie\\Documents\\GitHub\\AtelierStock\\AtelierStock\\AtelierStock\\AtelierStock.csproj"
+              "c:\\Users\\xavie\\Documents\\GitHub\\AtelierStock\\Atelier 1\\AtelierStock\\AtelierStock\\AtelierStock.csproj": {
+                "projectPath": "c:\\Users\\xavie\\Documents\\GitHub\\AtelierStock\\Atelier 1\\AtelierStock\\AtelierStock\\AtelierStock.csproj"
               }
             }
           }
@@ -361,14 +361,14 @@
         }
       }
     },
-    "C:\\Users\\xavie\\Documents\\GitHub\\AtelierStock\\AtelierStock\\AtelierStock\\AtelierStock.csproj": {
+    "c:\\Users\\xavie\\Documents\\GitHub\\AtelierStock\\Atelier 1\\AtelierStock\\AtelierStock\\AtelierStock.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xavie\\Documents\\GitHub\\AtelierStock\\AtelierStock\\AtelierStock\\AtelierStock.csproj",
+        "projectUniqueName": "c:\\Users\\xavie\\Documents\\GitHub\\AtelierStock\\Atelier 1\\AtelierStock\\AtelierStock\\AtelierStock.csproj",
         "projectName": "AtelierStock",
-        "projectPath": "C:\\Users\\xavie\\Documents\\GitHub\\AtelierStock\\AtelierStock\\AtelierStock\\AtelierStock.csproj",
+        "projectPath": "c:\\Users\\xavie\\Documents\\GitHub\\AtelierStock\\Atelier 1\\AtelierStock\\AtelierStock\\AtelierStock.csproj",
         "packagesPath": "C:\\Users\\xavie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xavie\\Documents\\GitHub\\AtelierStock\\AtelierStock\\AtelierStock\\obj\\",
+        "outputPath": "c:\\Users\\xavie\\Documents\\GitHub\\AtelierStock\\Atelier 1\\AtelierStock\\AtelierStock\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xavie\\AppData\\Roaming\\NuGet\\NuGet.Config"
